@@ -1,5 +1,9 @@
 # Zindi Mobile Money and Financial Inclusion in Tanzania challenge
 
+___
+Modules required are found in the text file Requirements.txt, install using the command ```pip3 install -r Requirements.txt```
+___
+
 
 The train dataset contains demographic information and what financial services are used by approximately 10,000 individuals across Tanzania. This data was extracted from the FSDT Finscope 2017 survey and prepared specifically for this challenge. More about the Finscope survey here.
 
